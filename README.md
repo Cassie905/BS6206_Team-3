@@ -1,4 +1,4 @@
-# BS6206_Team 3
+# Peptide Selection for Cancer Vaccines
 
 This repository contains all code we used to complete two use cases in BS6206.
 
