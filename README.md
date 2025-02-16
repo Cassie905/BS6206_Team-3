@@ -10,7 +10,7 @@ This repository contains all code we used to complete two use cases in BS6206.
 
 - **case 2_task 1/**: Jupyter notebooks for clustering in task 1 of use case 2:
   - `peptides.ipynb`: Extract peptide sequences of lengths 15 and 20 from mutated protein sequences and generate peptides that contain the mutation by identifying mutation sites in the protein sequence.
-  - `input_case2.ipynb`: Save the results from peptides.ipynb as an acceptable input form for netMHCIIpan and MixMHC2pred.
+  - `input_case2.ipynb`: Save the results from peptides.ipynb as an acceptable input form for netMHCIIpan.
 
 - **Clustering/**: Jupyter notebooks for clustering in task 3 of use case 2:
   - `formatadjust.py`: Extract peptides with rank > 60 and adjust the peptide file format to a peptide sequence list.
